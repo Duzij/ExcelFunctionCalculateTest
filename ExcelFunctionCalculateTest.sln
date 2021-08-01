@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelFunctionCalculateTest", "ExcelFunctionCalculateTest\ExcelFunctionCalculateTest.csproj", "{6E7D7051-A654-4F77-AA6D-69AE6EC0EB8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelFunctionCalculateTest.Test", "ExcelFunctionCalculateTest.Test\ExcelFunctionCalculateTest.Test.csproj", "{36696AB0-CD9C-44FB-90B7-B626AA5B2554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E7D7051-A654-4F77-AA6D-69AE6EC0EB8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7D7051-A654-4F77-AA6D-69AE6EC0EB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7D7051-A654-4F77-AA6D-69AE6EC0EB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7D7051-A654-4F77-AA6D-69AE6EC0EB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36696AB0-CD9C-44FB-90B7-B626AA5B2554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36696AB0-CD9C-44FB-90B7-B626AA5B2554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36696AB0-CD9C-44FB-90B7-B626AA5B2554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36696AB0-CD9C-44FB-90B7-B626AA5B2554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E693D25C-511C-41C4-8873-2305C5F45796}
+	EndGlobalSection
+EndGlobal

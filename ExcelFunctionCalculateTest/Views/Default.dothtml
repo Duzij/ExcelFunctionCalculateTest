@@ -1,0 +1,7 @@
+﻿@viewModel ExcelFunctionCalculateTest.ViewModels.DefaultViewModel, ExcelFunctionCalculateTest
+@masterPage Views/MasterPage.dotmaster
+@import ExcelFunctionCalculateTest.Resources
+<dot:Content ContentPlaceHolderID="MainContent">
+        Result: {{value: Result}}
+    <dot:Button Text="ReadAndReturnValueFromExcel" Click="{command: ReadAndReturnValueFromExcel()}"></dot:Button>
+</dot:Content>
